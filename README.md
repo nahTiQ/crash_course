@@ -15,6 +15,7 @@ I don't think you'll be hurt too much by using this file.
 
 Save this file as book_examples.py in the same folder you're writing your code from the book in.
 At the top of your main code file, put this as the first line to call on the classes and methods within:
+
 from book_examples import *
 
 From here, you can follow the book without worrying about having to rewrite the code in the classes.
