@@ -1,5 +1,5 @@
 '''Class examples from the book so I don't have to keep recreating this shit.
-If you found this from github, I have exanded on the examples in the book. This
+If you found this from github, I have expanded on the examples in the book. This
 is not the module you would expect if it was written verbatim. For example, in
 the User subclass Admin, I used a dictionary instead of a list because it makes
 more since to check if those values are True versus storing a list of user privi-
